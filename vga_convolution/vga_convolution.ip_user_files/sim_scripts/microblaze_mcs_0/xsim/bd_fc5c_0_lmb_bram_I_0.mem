@@ -1,0 +1,16 @@
+// Mem file initialization records.
+//
+// SW Build 5164865 on Thu Sep  5 14:37:11 MDT 2024
+// Vivado v2024.1.2 (64-bit)
+// Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+// Created on Thursday February 13, 2025 - 08:28:17 pm, from:
+//
+//     Map file     - c:\Users\matja\vga_convolution\vga_convolution.gen\sources_1\ip\microblaze_mcs_0\bd_0\bd_fc5c_0.bmm
+//     Data file(s) - c:/Users/matja/vga_convolution/vga_convolution.gen/sources_1/ip/microblaze_mcs_0/bd_0/ip/ip_0/data/mb_bootloop_le.elf
+//
+// Address space 'cpu_inst_microblaze_I.cpu_inst_lmb_bram_I_ADDR_SPACE', bit lane [31:0].
+//
+// Bus width = 32 bits, number of bus blocks = 1.
+
+@00000000
+    B8000000
